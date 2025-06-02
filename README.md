@@ -29,30 +29,30 @@ A complete full-stack Voter Management application built with **React** (fronten
 
 ## 📂 Folder Structure
 
-FullStacVoterApp/
-├── client/ # React frontend
-└── server/ # Node.js backend
+- FullStacVoterApp/
+- ├── client/ # React frontend
+- └── server/ # Node.js backend
 
 ## ⚙️ Installation
 
 ### 1. Clone the repository
 git clone https://github.com/soumya2611/FullStacVoterApp.git
-cd FullStacVoterApp
+- cd FullStacVoterApp
 ## BACKEND
-cd server
-npm install
-npm start
+- cd server
+- npm install
+- npm start
 ## .env
-ENV PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
+- ENV PORT=5000
+- MONGO_URI=your_mongodb_connection_string
+- JWT_SECRET=your_jwt_secret
 ## FRONTEND
-cd ../client
-npm install
-npm start
+- cd ../client
+- npm install
+- npm start
 ## 📬 Contact
-Created by Soumya
-🔗 LinkedIn : https://www.linkedin.com/in/soumya2611
-📧 Email: workforsoumya21@gmail.com
+- Created by Soumya
+- 🔗 LinkedIn : https://www.linkedin.com/in/soumya2611
+- 📧 Email: workforsoumya21@gmail.com
 
 
