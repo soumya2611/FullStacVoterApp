@@ -55,4 +55,8 @@ git clone https://github.com/soumya2611/FullStacVoterApp.git
 - 🔗 LinkedIn : https://www.linkedin.com/in/soumya2611
 - 📧 Email: workforsoumya21@gmail.com
 
+![image](https://github.com/user-attachments/assets/a8722c72-e168-4ef6-b42e-df0ee56f5325)
+![image](https://github.com/user-attachments/assets/d1ddc2d5-9950-4b2b-a922-107637050878)
+![image](https://github.com/user-attachments/assets/fcc31978-8b71-42f4-95e0-9644304515b0)
+
 
